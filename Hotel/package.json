@@ -1,0 +1,19 @@
+{
+  "name": "hotel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  },
+  "dependencies": {
+    "flowbite": "^1.4.1",
+    "tw-elements": "^1.0.0-alpha12",
+    "vite": "^2.9.1"
+  },
+  "description": ""
+}

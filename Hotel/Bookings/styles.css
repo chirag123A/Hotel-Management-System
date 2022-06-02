@@ -1,0 +1,9 @@
+body{
+    color: black;
+    font-family: "Montserrat";
+    text-align: center;
+    background-color: #e8e6e6;
+}
+.divhover:hover{
+    background-color: white;
+}
